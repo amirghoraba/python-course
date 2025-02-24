@@ -82,3 +82,17 @@ import csv
 #     print(kwargs)
 # foo(5, 8 ,9, 88,65,32, name="amir")
 # ===========================
+# pass git:# Amirghoraba1387@
+
+
+# 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
+
+# echo "# python_course" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com: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/amirghoraba/python_course.git
+# git push -u origin main
+
+# git clone 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@github.com/amirghoraba/python_course.git``
